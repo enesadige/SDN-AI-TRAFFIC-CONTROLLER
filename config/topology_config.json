@@ -1,0 +1,18 @@
+{
+  "topology_name": "Topo_RealISP_Test",
+  "path_config": {
+    "1": {
+      "capacity_mbps": 260.0,
+      "delay_ms": 5.0
+    },
+    "2": {
+      "capacity_mbps": 58.5,
+      "delay_ms": 30.0
+    },
+    "3": {
+      "capacity_mbps": 39.0,
+      "delay_ms": 80.0
+    }
+  },
+  "num_paths": 3
+}
